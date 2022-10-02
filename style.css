@@ -451,6 +451,11 @@ section{
 .contact .wrapper .icon:hover .tooltip{
     text-shadow: 0px -1px 0px rgba(0,0,0,0.4);
 }
+.contact .wrapper .linkedin:hover span,
+.contact .wrapper .linkedin:hover .tooltip,
+.contact .wrapper .linkedin:hover .tooltip:before{
+    background: #0072b1;
+}
 .contact .wrapper .twitter:hover span,
 .contact .wrapper .twitter:hover .tooltip,
 .contact .wrapper .twitter:hover .tooltip:before{
